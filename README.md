@@ -12,10 +12,15 @@ In order to determine which articles to show to each user, you will be performin
 This project requires Python 3.x and the following Python libraries installed:
 
 > Numpy
+
 > Pandas
+
 > Matplotlib
+
 > Seaborn
+
 > Seaborn
+
 > scikit-learn
 
 
